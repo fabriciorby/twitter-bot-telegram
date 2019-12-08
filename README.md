@@ -44,5 +44,5 @@ Pra alterar os usuários do teclado, é necessário adicionar os ids. Pra isso �
 
 ## Prints
 
-![InlineKeyboard](./img/ex1.jpg)
 ![Tweets](./img/ex2.jpg)
+![InlineKeyboard](./img/ex1.jpg)
